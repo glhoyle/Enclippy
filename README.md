@@ -3,7 +3,8 @@ Simple password-protected encryption and decryption of files.
 
 Written by the Clippy Apologists for Dr. Tan's Cybersecurity (CSCI-3396-1) at Trinity University, spring 2020.
 
-###The Clippy Apologists:
+### The Clippy Apologists:
+
 Ren Hardzog
 Gracen Hoyle
 Grant Peterson
