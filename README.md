@@ -6,7 +6,9 @@ Written by the Clippy Apologists for Dr. Tan's Cybersecurity (CSCI-3396-1) at Tr
 ### The Clippy Apologists:
 
 Ren Hardzog
+
 Gracen Hoyle
+
 Grant Peterson
 
 Requires the cryptography module for Python3. Install using `pip install cryptography`.
